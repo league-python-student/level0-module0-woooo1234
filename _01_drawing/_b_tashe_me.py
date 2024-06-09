@@ -35,7 +35,8 @@ def screen_clicked(x, y):
 
     # 4. Show your moustache by calling the .showturtle() function
     # moustache.showturtle()
-
+    add_moustache.showturtle()
+    add_moustache.goto(13,25)
     # 5. Move your moustache to a new location using .goto(x, y)
 
 
@@ -43,6 +44,7 @@ if __name__ == '__main__':
     window = turtle.Screen()
 
     # 1. Find an image of a face online that you want to put a moustache on and
+
     #    add the file to the folder with your code
 
     # 2. Call the set_background() function with the image filename inside of the parenthesis
