@@ -39,7 +39,7 @@ if __name__ == '__main__':
     # Make a pop-up that contains the final story. The \n escape characters add
     # line breaks to the story. If you need to, move them around to make your
     # story look better in the pop-up
-    tkinter.simpledialog.askstring('story','"Piranhas are more muddy during the day, so cross the river at\n"'
+    tkinter.simpledialog.askstring('story''"Piranhas are more muddy during the day, so cross the river at\n"'
         "night. Piranhas are attracted to fresh water and will most\n"
         "likely take a bite out of your arm if you talk. Whatever\n"
         "you do, if you have an open wound, try to find another way to get "
